@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaHomeWork", "LambdaHomeWork\LambdaHomeWork.csproj", "{DFDF4B33-9810-4B3B-BC70-1A444566B85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDF4B33-9810-4B3B-BC70-1A444566B85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDF4B33-9810-4B3B-BC70-1A444566B85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDF4B33-9810-4B3B-BC70-1A444566B85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDF4B33-9810-4B3B-BC70-1A444566B85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6789A33-C85F-4F5C-9247-BCEDD8D90795}
+	EndGlobalSection
+EndGlobal
